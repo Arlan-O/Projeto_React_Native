@@ -104,7 +104,7 @@ export default function Tarefas() {
         <Text style={styles.title}>Minhas Tarefas</Text>
         <TouchableOpacity 
           style={styles.buttonNew}
-          onPress={() => navigation.navigate('CadastroTarefa')} 
+          onPress={() => navigation.navigate('Config')} 
         >
           <Text style={styles.buttonNewText}>+</Text>
         </TouchableOpacity>

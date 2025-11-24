@@ -35,7 +35,7 @@ export default function Home() {
         <View style={estilo.btn}>
           <TouchableOpacity
             style={estilo.botao}
-            onPress={() => navigation.navigate("CadastroEquipe")}
+            onPress={() => navigation.navigate("Config")}
           >
             <Image style={estilo.imgBotao} source={equipe} />
           </TouchableOpacity>
@@ -48,7 +48,7 @@ export default function Home() {
         <View style={estilo.btn}>
           <TouchableOpacity
             style={estilo.botao}
-            onPress={() => navigation.navigate("CadastroTarefa")}
+            onPress={() => navigation.navigate("Config")}
           >
             <Image style={estilo.imgBotao} source={tarefa} />
           </TouchableOpacity>
