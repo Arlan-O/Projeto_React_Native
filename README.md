@@ -94,3 +94,6 @@ Para que o aplicativo funcione, ele precisa saber onde encontrar o seu servidor 
     ```
 
 4.  Salve o arquivo. O Expo Go deve recarregar o app automaticamente com a nova configuração.
+
+[app-planner.webm](https://github.com/user-attachments/assets/8346f75b-d607-4a91-9ebb-665245222388)
+
