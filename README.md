@@ -90,7 +90,7 @@ Para que o aplicativo funcione, ele precisa saber onde encontrar o seu servidor 
     // 2. Garanta que seu celular e computador estão na MESMA rede Wi-Fi
 
     // Substitua 'localhost' pelo seu IP:
-    const BASE_URL = '[http://192.168.1.10:8080](http://192.168.1.10:8080)'; // (Use o SEU IP aqui)
+    const BASE_URL = '[http://192.168.0.00:8080](http://192.168.0.00:8080)'; // (Use o SEU IP aqui)
     ```
 
 4.  Salve o arquivo. O Expo Go deve recarregar o app automaticamente com a nova configuração.
